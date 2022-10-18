@@ -1,3 +1,7 @@
+* {
+    margin-left: 3px;
+}
+
 #unsplashPhoto {
     height: 240px;
     width: 400px;
